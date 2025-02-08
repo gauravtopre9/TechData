@@ -12,5 +12,7 @@
 
 TechData revolutionizes data analytics by making insights truly interactive, intelligent, and effortless.
 
-### Here is the short demo of TechData is available in repo.
+### Here is the short demo of TechData is available on link given below.
+
+![Click Here for Demo](https://drive.google.com/file/d/1lwyEyJIAlOdKiPeLbxMa_CEi5zdd44Jb/view)
 
